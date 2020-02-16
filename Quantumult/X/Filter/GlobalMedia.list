@@ -63,11 +63,11 @@ DOMAIN,d22qjgkvxw22r6.cloudfront.net,GlobalMedia
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net,GlobalMedia
 DOMAIN-KEYWORD,avoddashs,GlobalMedia
 # > Bahamut
-USER-AGENT,Anime*,GlobalMedia
-DOMAIN-SUFFIX,bahamut.com.tw,GlobalMedia
-DOMAIN-SUFFIX,gamer.com.tw,GlobalMedia
-DOMAIN,gamer-cds.cdn.hinet.net,GlobalMedia
-DOMAIN,gamer2-cds.cdn.hinet.net,GlobalMedia
+USER-AGENT,Anime*,HKMTMedia
+DOMAIN-SUFFIX,bahamut.com.tw,HKMTMedia
+DOMAIN-SUFFIX,gamer.com.tw,HKMTMedia
+DOMAIN,gamer-cds.cdn.hinet.net,HKMTMedia
+DOMAIN,gamer2-cds.cdn.hinet.net,HKMTMedia
 # > BBC iPlayer
 USER-AGENT,BBCiPlayer*,GlobalMedia
 DOMAIN-SUFFIX,bbc.co.uk,GlobalMedia
